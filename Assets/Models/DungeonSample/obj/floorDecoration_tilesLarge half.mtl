@@ -1,0 +1,16 @@
+newmtl floorDecoration_tilesLarge:Stone
+illum 4
+Kd 0.19 0.23 0.25
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl floorDecoration_tilesLarge1:Stone
+illum 4
+Kd 0.19 0.23 0.25
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
